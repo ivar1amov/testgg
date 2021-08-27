@@ -25,8 +25,8 @@
 
 @font-face {
   font-family: "DrukCyr";
-  src: url("../fonts/Drag/DrukTextWideCyr-Heavy.eot");
-  src: local("☺"), url("../fonts/Drag/DrukTextWideCyr-Heavy.woff") format("woff"), url("../fonts/Drag/DrukTextWideCyr-Heavy.woff2") format("woff2"), url("../fonts/Drag/DrukTextWideCyr-Heavy.ttf") format("truetype"), url("../fonts/Drag/DrukTextWideCyr-Heavy.svg") format("svg");
+  src: url("../fonts/Drag/Druk Text Wide Cyr Bold.eot");
+  src: local("☺"), url("../fonts/Drag/Druk Text Wide Cyr Bold.woff") format("woff"), url("../fonts/Drag/Druk Text Wide Cyr Bold.woff2") format("woff2"), url("../fonts/Drag/Druk Text Wide Cyr Bold.ttf") format("truetype"), url("../fonts/Drag/Druk Text Wide Cyr Bold.svg") format("svg");
   font-weight: 900;
   font-style: normal;
 }
@@ -486,7 +486,7 @@ h6 {
   
 }
 .form__btn{
-  font-family: "Druk  Cyr";
+  font-family: "DrukCyr";
 font-size: 18px;
 font-style: normal;
 font-weight: 900;
